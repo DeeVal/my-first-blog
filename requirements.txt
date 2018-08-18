@@ -1,0 +1,7 @@
+Django~=2.0.6
+
+print('hello, Django girls!')
+1>2
+1 > 2
+2 * 2
+1=1
